@@ -29,9 +29,12 @@ experience:
     date_start: '2020-01-01'
     date_end: ''
     description: |1-
-        * A product owner of IRB and IFRS 9 model testing and reporting Retail team (6-8 members) for a systematically important bank in the Netherlands
+        * Leading IRB and IFRS 9 model testing and reporting Retail & SME team (10-14 members) for a systematically important bank in the Netherlands 
+        * Designing model typology for a large Czech bank
+        * Organizing multiple IFRS 9 model audits within PwC
         * Reviewing IRB Conservatism, testing New Definition of Default
         * Leading model audits for TBC Group and TBC Leasing in Georgia
+        * Business owner of [PwC Model Risk Manager](https://www.pwc.com/cz/en/sluzby/podnikove-poradenstvi/financial-risk-modelling/model-risk-manager.html) 
         
   - title: Senior Consultant in Financial Risk Modeling 
     company: PwC Czech Republic
@@ -65,7 +68,7 @@ experience:
         
 ---
 
-In PwC, I lead credit risk model validations and risk management for PwC CEE Financial Risk Modeling team in Prague. My expertise is in the area of banking and financial regulations with a particular focus on model risk management and model validation. I have experience in leading end to end development of complex model risk solutions. I am a product owner for the CEE PwC model inventory solution Model Risk Manager.
+In PwC, I lead credit risk model validations and risk management for PwC CEE Financial Risk Modeling team in Prague. My expertise is in the area of banking and financial regulations with a particular focus on model risk management and model validation. I have experience in leading end to end development of complex model risk solutions. I am a product owner for the CEE PwC model inventory solution [PwC Model Risk Manager](https://www.pwc.com/cz/en/sluzby/podnikove-poradenstvi/financial-risk-modelling/model-risk-manager.html).
 
 I advice my clients in the area of Advanced IRB and IFRS 9 modeling. Over the past years, I have supported first and second line of defense at financial institutions and PwC audit teams in Netherlands, Central Europe and Asia. My focus is on the following areas:
   * Model audit and validation

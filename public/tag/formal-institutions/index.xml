@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Formal institutions | David Dolejsi</title>
-    <link>/tag/formal-institutions/</link>
-      <atom:link href="/tag/formal-institutions/index.xml" rel="self" type="application/rss+xml" />
+    <title>Formal institutions | David Dolejší</title>
+    <link>https://daviddolejsi.netlify.app/tag/formal-institutions/</link>
+      <atom:link href="https://daviddolejsi.netlify.app/tag/formal-institutions/index.xml" rel="self" type="application/rss+xml" />
     <description>Formal institutions</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://daviddolejsi.netlify.app/media/icon_huf3342d76ff88371a5c5dfc3c190419b0_8127_512x512_fill_lanczos_center_3.png</url>
       <title>Formal institutions</title>
-      <link>/tag/formal-institutions/</link>
+      <link>https://daviddolejsi.netlify.app/tag/formal-institutions/</link>
     </image>
     
     <item>
       <title>Feudal Bargain in Central Europe: The Rise, Spread and Fall of Craft Guilds</title>
-      <link>/publication/dolejsi_feudalbargain_wp/</link>
+      <link>https://daviddolejsi.netlify.app/publication/dolejsi_feudalbargain_wp/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/dolejsi_feudalbargain_wp/</guid>
+      <guid>https://daviddolejsi.netlify.app/publication/dolejsi_feudalbargain_wp/</guid>
       <description></description>
     </item>
     

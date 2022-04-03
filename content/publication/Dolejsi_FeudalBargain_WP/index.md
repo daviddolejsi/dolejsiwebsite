@@ -34,7 +34,7 @@ tags:
 - Formal institutions
 
 links:
-url_pdf: 'files/Dolejsi_FeudalBargain_WP 2020.pdf'
+url_pdf: 'files/Dolejsi_FeudalBargain_Mar2022_pre-published.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

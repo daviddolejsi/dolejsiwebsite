@@ -19,26 +19,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Advanced
+- #description: Advanced
   icon: r-project
   icon_pack: fab
-  name: R
-- description: Advanced
-  icon: latex
-  icon_pack: custom
-  name: LaTeX
-- description: Intermediate 
+  #name: R
+- #description: Intermediate 
   icon: sas
   icon_pack: custom
-  name: SAS
-- description: Advanced
+  #name: SAS
+- #description: Advanced
   icon: latex
   icon_pack: custom
-  name: LaTeX
-- description: Intermediate
+  #name: LaTeX
+- #description: Intermediate
   icon: sql
   icon_pack: custom
-  name: SQL
+  #name: SQL
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
