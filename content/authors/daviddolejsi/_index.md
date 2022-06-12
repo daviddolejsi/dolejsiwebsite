@@ -70,5 +70,5 @@ highlight_name: true
 I am a highly motivated and results driven economist who has an education in theoretical and empirical economics with invaluable experience in research and financial risk management. I hold a PhD degree in Law & Economics from the University of Turin. Currently, I am a manager in the PwC Czech Republic leading model validation and model risk management streams.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/Dolejsi David_CV_one page_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/DolejsiDavid_CV_one page_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
