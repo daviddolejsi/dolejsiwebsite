@@ -1,7 +1,7 @@
 ---
 
 # Display name
-title: David Dolejší, PhD.
+title: David Dolejší, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
