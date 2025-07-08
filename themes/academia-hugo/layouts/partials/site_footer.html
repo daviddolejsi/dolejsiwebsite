@@ -1,0 +1,31 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        {{ with site.GetPage "privacy.md" }}
+        <p class="powered-by">
+          {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+        </p>
+        {{ end }}
+        <p class="mb-0">
+          David Dolejsi's
+          {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
+          Powered by
+          <a href="https://gethugothemes.com" target="_blank" rel="noopener">Gethugothemes</a>
+        </p>
+      </div>
+      <div class="col-12 text-center mt-2">
+        <ul class="list-inline network-icon mb-0">
+          {{ range site.Params.contact_links }}
+          <!-- Icon logic unchanged -->
+          <li class="list-inline-item">
+            <a href="{{ .link | safeURL }}" title="{{.name}}">
+              <i class="{{ .icon_pack }} fa-{{ .icon }}" aria-hidden="true"></i>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>

@@ -1,68 +1,54 @@
 ---
 title: "PMH32 The Economic Burden of Alcohol Consumption in the Czech Republic"
+
+abstract: "The objective of the study was to assess the societal cost of alcohol 
+consumption in the Czech Republic in 2016 and open the public debate about alcohol 
+harmfulness and its costs. Although alcohol is readily available and widely tolerated in the CZ, 
+society is not able to resolve all the negative consequences of consumption and 
+fulfill unmet needs in the treatment of alcohol-dependent patients."
+
 authors:
-- "Katerina Chadimova" 
-- "Tomas Mlcoch"
-- "Tomas Dolezal"
-- daviddolejsi
-- "Barbora Hajickova"
-- "Martina Mazalova"
-- "Klara Lamblova"
+- admin
+- Katerina Chadimova
+- Tomas Mlcoch
+- Barbora Hajickova
+- Martina Mazalova
+- Klara Lamblova
 date: "2019-11-01"
 doi: "10.1016/j.jval.2019.09.1506"
 
 # Working paper section (as Featured) = true. Publications section = False 
 featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+projects: []
 
-# Schedule page publish date (NOT publication's date).
-publishDate: ''
+publication: "Value in Health"
+publication_short: "Value in Health"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; [] = empty
-publication_types: '2'
+publication_types:
+- "2"
 
-# Publication name and optional abbreviated publication name.
-publication: "Value in Health"
-publication_short: "Value in Health"
+publishDate: ""
 
-abstract: The objective of the study was to assess the societal cost of alcohol consumption in the Czech Republic in 2016 and open the public debate about alcohol harmfulness and its costs. Although alcohol is readily available and widely tolerated in the CZ, society is not able to resolve all the negative consequences of consumption and fulfill unmet needs in the treatment of alcohol-dependent patients.
-
-# Summary. An optional shortened abstract.
-summary: 'The objective of the study was to assess the societal cost of alcohol consumption in the Czech Republic in 2016 and open the public debate about alcohol harmfulness and its costs. Although alcohol is readily available and widely tolerated in the CZ, society is not able to resolve all the negative consequences of consumption and fulfill unmet needs in the treatment of alcohol-dependent patients.'
+summary: The objective of the study was to assess the societal cost of alcohol consumption in the Czech Republic in 2016 and open the public debate about alcohol harmfulness and its costs. Although alcohol is readily available and widely tolerated in the CZ, society is not able to resolve all the negative consequences of consumption and fulfill unmet needs in the treatment of alcohol-dependent patients.
 
 tags:
 
 links:
-url_pdf: 'files/Dolejsi_Alcohol Article 2020.pdf'
+url_pdf: "files/Dolejsi_Alcohol Article 2020.pdf"
 url_code: ''
 url_dataset: ''
-url_poster: 'files/Dolejsi_Alcohol Poster 2020.pdf'
+url_poster: "files/Dolejsi_Alcohol Poster 2020.pdf"
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ''
 ---
