@@ -22,12 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Manager in Financial Risk Modeling 
+    company: PwC Czech Republic
+    company_url: 'https://www.pwc.com/cz'
+    location: Czech Republic
+    date_start: '2024-08-01'
+    date_end: ''
+    description: |1-
+        * Leading IFRS 9 model monitoring and review for the Professional Real Estate portfolio of a systemically important financial institution in the Netherlands, ensuring compliance with internal standards for audit purposes.
+        * Designing a comprehensive model validation framework and guidelines for a multilateral development finance institution.
+        * Developed a model risk management framework for a multilateral development finance institution, encompassing peer benchmarking, risk tiering, inventory design, model identification and categorization, lifecycle design, and defined roles and responsibilities 
+       
   - title: Manager in Financial Risk Modeling 
     company: PwC Czech Republic
     company_url: 'https://www.pwc.com/cz'
     location: Czech Republic
     date_start: '2020-01-01'
-    date_end: ''
+    date_end: '2024-07-01'
     description: |1-
         * Leading IRB and IFRS 9 model testing and reporting Retail & SME team (10-14 members) for a systematically important bank in the Netherlands 
         * Designing model typology for a large Czech bank
@@ -68,11 +79,16 @@ experience:
         
 ---
 
-In PwC, I lead credit risk model validations and risk management for PwC CEE Financial Risk Modeling team in Prague. My expertise is in the area of banking and financial regulations with a particular focus on model risk management and model validation. I have experience in leading end to end development of complex model risk solutions. I am a product owner for the CEE PwC model inventory solution [PwC Model Risk Manager](https://www.pwc.com/cz/en/sluzby/podnikove-poradenstvi/financial-risk-modelling/model-risk-manager.html).
+My expertise lies primarily in banking and financial regulations, with a specialized focus on two key areas: model risk management and model validation.
 
-I advice my clients in the area of Advanced IRB and IFRS 9 modeling. Over the past years, I have supported first and second line of defense at financial institutions and PwC audit teams in Netherlands, Central Europe and Asia. My focus is on the following areas:
-  * Model audit and validation
-  * Performance evaluation 
-  * Testing framework design 
-  * Conservatism estimations and downturn identification
-  * Model risk and model risk management
+In model validation, I concentrate on credit risk models, covering audit, validation processes, and methodological design, while ensuring compliance with regulations such as the ECB Guidelines, Basel II, and IFRS 9.
+
+In the area of model risk, I provide advisory services to clients, offering insights into model risk frameworks, conducting comprehensive market surveys and benchmarks, and contributing to the development of end-to-end technological solutions.
+
+**Key Focus Areas:**
+  
+* Model Risk Management Design  
+* Model Audit  
+* Model Validation  
+* IFRS 9 & IRB Modelling  
+* Fund Transfer Pricing
