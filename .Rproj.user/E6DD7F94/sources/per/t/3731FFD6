@@ -1,0 +1,26 @@
+{
+    "id": "3731FFD6",
+    "path": "~/website/run.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "2848259181",
+    "contents": "",
+    "dirty": false,
+    "created": 1648151940570.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1618262492,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618262492,
+    "read_only": false,
+    "read_only_alternatives": []
+}

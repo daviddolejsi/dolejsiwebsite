@@ -1,62 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Dolejsi</title>
-    <link>https://gethugothemes.com/academia/site/</link>
-    <description>Recent content on David Dolejsi</description>
-    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2025</copyright>
-    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://gethugothemes.com/academia/site/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Projects</title>
-      <link>https://gethugothemes.com/academia/site/post/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://gethugothemes.com/academia/site/post/</guid>
-      <description></description>
-    </item>
+    <title>David Dolejší</title>
+    <link>https://daviddolejsi.netlify.app/</link>
+      <atom:link href="https://daviddolejsi.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Dolejší</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://daviddolejsi.netlify.app/media/icon_huf3342d76ff88371a5c5dfc3c190419b0_8127_512x512_fill_lanczos_center_3.png</url>
+      <title>David Dolejší</title>
+      <link>https://daviddolejsi.netlify.app/</link>
+    </image>
     
     <item>
-      <title>Projects</title>
-      <link>https://gethugothemes.com/academia/site/project/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://gethugothemes.com/academia/site/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://gethugothemes.com/academia/site/publication/</link>
+      <title>Feudal bargain in Prague: The rise, spread, and fall of craft guilds </title>
+      <link>https://daviddolejsi.netlify.app/publication/dolejsi_feudalbargain/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://gethugothemes.com/academia/site/publication/</guid>
+      <guid>https://daviddolejsi.netlify.app/publication/dolejsi_feudalbargain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Power in Pre-modern Prague: Club Goods and Rent-seeking</title>
+      <link>https://daviddolejsi.netlify.app/publication/dolejsi_clubgoodsguilds_wp/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://daviddolejsi.netlify.app/publication/dolejsi_clubgoodsguilds_wp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PMH32 The Economic Burden of Alcohol Consumption in the Czech Republic</title>
+      <link>https://daviddolejsi.netlify.app/publication/dolejsi_alcohol/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://daviddolejsi.netlify.app/publication/dolejsi_alcohol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Craft Guilds</title>
+      <link>https://daviddolejsi.netlify.app/publication/dolejsi_guildsencyclopedia/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://daviddolejsi.netlify.app/publication/dolejsi_guildsencyclopedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coproduction of property rights: The management of watercourses in pre-modern Bohemia</title>
+      <link>https://daviddolejsi.netlify.app/publication/dolejsi_millers/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://daviddolejsi.netlify.app/publication/dolejsi_millers/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://gethugothemes.com/academia/site/privacy/</link>
+      <link>https://daviddolejsi.netlify.app/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gethugothemes.com/academia/site/privacy/</guid>
-      <description>&lt;h1 id=&#34;heading&#34;&gt;&amp;mdash;&lt;/h1&gt;
-&lt;h1 id=&#34;date-2018-06-28t0000000100&#34;&gt;date: &amp;ldquo;2018-06-28T00:00:00+01:00&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;draft-true&#34;&gt;draft: true&lt;/h1&gt;
-&lt;h1 id=&#34;header&#34;&gt;header:&lt;/h1&gt;
-&lt;h1 id=&#34;caption-&#34;&gt;caption: &amp;quot;&amp;quot;&lt;/h1&gt;
-&lt;h1 id=&#34;image-&#34;&gt;image: &amp;quot;&amp;quot;&lt;/h1&gt;
-&lt;h1 id=&#34;share-false&#34;&gt;share: false&lt;/h1&gt;
-&lt;h1 id=&#34;title-privacy-policy&#34;&gt;title: Privacy Policy&lt;/h1&gt;
-&lt;h1 id=&#34;heading-1&#34;&gt;&amp;mdash;&lt;/h1&gt;
-&lt;h1&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;heading-2&#34;&gt;&amp;hellip;&lt;/h1&gt;
-</description>
+      <guid>https://daviddolejsi.netlify.app/admin/config.yml</guid>
+      <description></description>
     </item>
     
   </channel>

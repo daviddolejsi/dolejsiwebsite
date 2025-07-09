@@ -1,16 +1,16 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+widget: pages
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: 'Research'
 subtitle:
@@ -41,10 +41,16 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
+  view: 2
 ---
 
-My research philosophy is that good economic history is a combination of extensive knowledge 
-of historical facts with the rigor of rational choice theory. As a result, 
-my research interests are mainly in microeconomic history. 
-In particular, I specialize in microeconomic analysis of historical institutions.
+My research philosophy is that good economic history is a combination of extensive knowledge of historical facts with the rigor of rational choice theory. As a result, my research interests are mainly in microeconomic history. In particular, I specialize in microeconomic analysis of historical institutions.
+
+I am currently a Research Fellow at Monetary Research Center of University of National and World Economy in Bulgaria. I hold Ph.D. degree in Comparative Analysis of Institutions, Economics & Law from the University of Turin.
+
+**Fields of research:**
+  * Economic history 
+  * Microeconomics 
+  * Institutional economics 
+  * Game theory
+  * Industrial organization

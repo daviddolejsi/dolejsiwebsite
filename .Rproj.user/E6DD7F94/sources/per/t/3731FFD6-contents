@@ -1,0 +1,8 @@
+# update theme by overwriting
+install_theme("gcushen/hugo-academic", theme_example = FALSE, update_config = TRUE, force = TRUE)
+
+library(blogdown) 
+
+blogdown::install_hugo(force = TRUE)
+blogdown::hugo_build()
+blogdown::serve_site()
