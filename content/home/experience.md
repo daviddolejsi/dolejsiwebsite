@@ -31,7 +31,9 @@ experience:
     description: |1-
         * Leading IFRS 9 model monitoring and review for the Professional Real Estate portfolio of a systemically important financial institution in the Netherlands, ensuring compliance with internal standards for audit purposes.
         * Designing a comprehensive model validation framework and guidelines for a multilateral development finance institution.
-        * Developed a model risk management framework for a multilateral development finance institution, encompassing peer benchmarking, risk tiering, inventory design, model identification and categorization, lifecycle design, and defined roles and responsibilities 
+        * Developed a model risk management framework for a multilateral development finance institution, encompassing peer benchmarking, risk tiering, inventory design, model identification and categorization, lifecycle design, and defined roles and responsibilities.
+        * Co-author of the [PwC Model Risk Management Survey](https://www.pwc.com/cz/en/temata/model-risk-management-survey.html), offering insights into current trends and practices in the MRM landscape.
+        * Designing a technical solution for Fund Transfer Pricing and leading its implementation for a small bank.
        
   - title: Manager in Financial Risk Modeling 
     company: PwC Czech Republic
