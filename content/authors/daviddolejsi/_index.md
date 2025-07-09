@@ -7,7 +7,7 @@ title: David Dolejší, Ph.D.
 superuser: true
 
 # Role/position/tagline
-role: Manager in Financial Risk Modeling
+role: Senior Manager in Financial Risk Modeling
 
 # Organizations/Affiliations to show in About widget
 organizations:

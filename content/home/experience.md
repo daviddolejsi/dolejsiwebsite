@@ -51,7 +51,7 @@ experience:
     company: PwC Czech Republic
     company_url: 'https://www.pwc.com/cz'
     location: Czech Republic
-    date_start: '2018-08-01'
+    date_start: '2017-07-01'
     date_end: '2020-12-31'
     description: |1-
         * Leading model calibration including Margin of Conservatism estimations for a systemically important financial institution in the Netherlands
@@ -61,22 +61,6 @@ experience:
         * Supervision of IFRS 9 model validations and model audits in Europe and Asia (Achmea Bank, Aegon Bank, TBC Group, Basis Bank, VLK Bank etc.)
         * Development of IT solutions for model testing and validation reporting for PwC (R, LaTeX, SQL)
         * Developing model validation frameworks (PD, LGD, EAD, scoring and macroeconomic models)
-        
-  - title: Consultant in Financial Risk Modeling 
-    company: PwC Czech Republic
-    company_url: 'https://www.pwc.com/cz'
-    location: Czech Republic
-    date_start: '2017-07-01'
-    date_end: '2020-07-31'
-    description: |1-
-        * Supervision of IFRS 9 model validations, model testing and impairment calculations for multiple audits of Dutch banks
-        * IFRS 9 models testing and validation for the audit of the large CEE banking group and its entities
-        * IFRS 9 models validation and impairment audit for the audit of Dutch insurance banks
-        * IFRS 9 models testing and validation for the audit of the large Georgian banking group
-        * LGD, EAD, RR and PD models development within the CEE region
-        * Development of model validation frameworks and validation IT solutions for PwC
-        * R, R markdown, R Shiny and SQL programming
-        
 ---
 
 My expertise lies primarily in banking and financial regulations, with a specialized focus on two key areas: model risk management and model validation.
